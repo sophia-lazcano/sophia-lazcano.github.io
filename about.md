@@ -14,15 +14,37 @@ layout: page
 
 <ul class="skill-list">
 	<li>Python</li>
+		<ul class="python-list">
+			<li>NumPy</li>
+			<li>Pandas</li>
+			<li>PyTorch</li>
+			<li>Sci-Kit Learn</li>
+			<li>JAX</li>
+			<li>Jraph</li>
+			<li>TensorFlow</li>
+			<li>Keras</li>
+			<li>Matplotlib</li>
+			<li>Seaborn</li>
+			<li>SQLAlchemy</li>
+		</ul>
 	<li>R</li>
-	<li>Git</li>
+		<ul class="r-list">
+			<li>dplyr</li>
+			<li>ggplot2</li>
+			<li>tidyverse</li>
+			<li>raster</li>
+			<li>mgcv</li>
+			<li>hrw</li>
+		</ul>
 	<li>C++</li>
-	<li></li>
 	<li>SQL - PostgreSQL</li>
 	<li>NoSQL - MongoDB</li>
+	<li>Git</li>
 	<li>JavaScript</li>
+	<li>HTML</li>
 	<li>Java</li>
 	<li>Excel VBA</li>
+	<li>MATLAB</li>
 </ul>
 
 <h3>Tools Used</h3>
@@ -38,4 +60,5 @@ layout: page
 	<li>Docker</li>
 	<li>GitHub</li>
 	<li>PGAdmin</li>
+	<li>Excel</li>
 </ul>
